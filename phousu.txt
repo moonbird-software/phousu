@@ -1,0 +1,5 @@
+- näytä muiden kortit kun user on voittanut
+- korjaa ylä ja oikea korttien lisäys pakkaan animaatio
+- puolita roskiinsiirtoviive
+	- kaatokortin näyttöviive samaksi kuin feilaavan kokeilun
+	- tietokonepelaajien viive vaikeusasteen mukaan
