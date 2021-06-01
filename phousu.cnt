@@ -1,0 +1,9 @@
+:Base phousu.hlp
+:Title Paskahousu
+1 Pelin tarkoitus=IDH_OBJECTOFGAME>Window
+1 Pelaaminen=IDH_HOWTOPLAY>Window
+1 Asetukset=IDH_SETTINGS>Window
+1 Säännöt
+2 Säännöt=IDH_RULES>Window
+2 Sääntömuunnelmia=IDH_VARIATIONS>Window
+2 Taktiikkaa ja vihjeitä=IDH_TACTICS>Window
